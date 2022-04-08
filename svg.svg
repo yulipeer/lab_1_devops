@@ -1,0 +1,20 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>Layer 1</title>
+  <rect id="svg_1" height="276" width="394" y="168.33333" x="215" stroke="#000" fill="#fff"/>
+  <rect stroke="#000" id="svg_2" height="144.00001" width="90.99999" y="246.33334" x="232.00001" fill="#fff"/>
+  <text transform="matrix(0.716601 0 0 0.84885 63.1979 30.2044)" stroke="#000" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" stroke-width="0" id="svg_4" y="221.33333" x="223" fill="#000000">192.168.7.0/24</text>
+  <rect stroke="#000" id="svg_5" height="147" width="101" y="244.33333" x="339" fill="#fff"/>
+  <path stroke="#000" id="svg_6" d="m466,243.33333l103,0l0,141.99999l-103,0l0,-141.99999z" opacity="undefined" fill="#fff"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" stroke-width="0" id="svg_7" y="190.33333" x="230" stroke="#000" fill="#000000">yuli-vpc</text>
+  <text transform="matrix(0.377857 0 0 0.810808 209.04 54.145)" stroke="#000" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_8" y="313.50002" x="118.9866" stroke-width="0" fill="#000000">192.168.7.0/27</text>
+  <text stroke="#000" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_9" y="353.33333" x="248" stroke-width="0" fill="#fff">subnet_web</text>
+  <text transform="matrix(0.493945 0 0 0.775497 122.586 73.5802)" stroke="#000" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_10" y="349.33333" x="262" fill="#fff">subnet_web</text>
+  <text style="cursor: move;" transform="matrix(0.734698 0 0 0.778067 106.386 57.1933)" stroke="#000" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_11" y="375.72606" x="328.86152" fill="#fff">subnet_app</text>
+  <text style="cursor: move;" transform="matrix(0.533896 0 0 0.768483 177.12 64.4546)" stroke="#000" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_12" y="324.05737" x="314.44416" fill="#fff">192.168.7.32/27</text>
+  <text style="cursor: move;" transform="matrix(0.756722 0 0 0.926392 143.206 24.0401)" stroke="#000" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_13" y="351.5717" x="455.64128" fill="#fff">subnet_db</text>
+  <text transform="matrix(0.393374 0 0 0.780106 295.986 75.6813)" stroke="#000" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_14" y="302.33333" x="495.74732" fill="#fff">192.168.7.64/28</text>
+  <text style="cursor: move;" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_15" y="157.33333" x="217" stroke="#000" fill="#fff">us-east-2</text>
+ </g>
+</svg>
